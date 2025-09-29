@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there, I'm David! 👋
 
 # 💫 About Me:
-I am a 3rd year student in maynooth uni , check my top skills for me and langagaes . my top projects are the duck game and the llm podcast generator. i love to play tennis.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/david-walsh-6a5802372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:DAVID.WALSH.2023@mumail.ie ) 
