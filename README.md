@@ -1,9 +1,9 @@
 ## Hi there, I'm David! 👋
 
 
-# 💫 About Me:
+## 💫 About Me:
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-walsh-6a5802372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:DAVID.WALSH.2023@mumail.ie ) 
 
 # 💻 Tech Stack:
