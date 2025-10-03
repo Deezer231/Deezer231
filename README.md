@@ -1,6 +1,4 @@
 # Hi there, I'm David! 👋
-
-
 # About Me:
 
 ## 🌐 Socials:
